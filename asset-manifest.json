@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tokyo/static/css/main.754ebb54.css",
+    "main.js": "/tokyo/static/js/main.d901f2ce.js",
+    "static/media/mountain.jpg": "/tokyo/static/media/mountain.4f69ff73a83ec43585f5.jpg",
+    "static/media/woman.jpg": "/tokyo/static/media/woman.1f5524ca4137f06438d2.jpg",
+    "static/media/hands.jpg": "/tokyo/static/media/hands.89f8774198dd5e47b065.jpg",
+    "static/media/person.jpeg": "/tokyo/static/media/person.7e6bc6a3fa50530377c5.jpeg",
+    "index.html": "/tokyo/index.html",
+    "main.754ebb54.css.map": "/tokyo/static/css/main.754ebb54.css.map",
+    "main.d901f2ce.js.map": "/tokyo/static/js/main.d901f2ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.d901f2ce.js"
+  ]
+}
